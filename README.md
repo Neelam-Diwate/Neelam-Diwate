@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neelam-Diwate
 - 👀 I’m interested in Python,MySQL,Power BI,Tableau
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently doing intership in Data Analysis @ETLHive
 - 📫 How to reach me neelamraut11@gmail.com
 
 
